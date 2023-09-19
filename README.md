@@ -69,8 +69,13 @@ System.out.println(str3); //Will print out iaWad
 
 Rework `wordChanger` so that it is a method in its ow class called WordChanger. Allow it to still be called as a `static` method.
 
-## GRADING BREAKDOWN
+## Grading Breakdown
 
-- Attempted code in all **YOUR CODE HERE** areas: 40 points
-- Correctly updated all comments: 10 points
-- Passed all Test Cases: 50 points
+- Code compiles & runs without errors: 1 pts
+- Formatting/indentation: 2 points
+- All code commented: 2 points
+- No public methods/attributes besides the ones specified: 2 point
+- All code is DRY (Don't repeat yourself): 3 points
+- Passes all test cases: 20 points
+
+*Total: 30 points*
